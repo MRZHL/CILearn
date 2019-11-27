@@ -1,0 +1,10 @@
+os:osx
+language: swift
+xcode_workspace: layout.xcworkspace
+xcode_scheme: layout
+osx_image: xcode11.1
+xcode_destination:platform=iOS Simulator,OS=13.1,name=iPhone 11 Pro Max
+
+notifications:
+  email:
+    - zhuhualinlf@icloud.com
